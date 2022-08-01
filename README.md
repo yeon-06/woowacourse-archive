@@ -11,7 +11,7 @@
 
 <br>
 
-➕ [우아한테크코스 지원 최종 후기](https://yeonyeon.tistory.com/176)
+📑 [우아한테크코스 지원 최종 후기](https://yeonyeon.tistory.com/176)
 
 <br/>
 
@@ -30,8 +30,8 @@
 
 <br>
 
-➕ [레벨 인터뷰](https://yeonyeon.tistory.com/219)  
-➕ [글쓰기 - 우테코 한달 생활기](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level1.md)
+📑 [레벨 인터뷰](https://yeonyeon.tistory.com/219)  
+📑 [글쓰기 - 우테코 한달 생활기](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level1.md)
 
 <br/>
 
@@ -50,11 +50,29 @@
 
 <br>
 
-➕ [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level2.md)
+📑 [레벨 인터뷰](https://yeonyeon.tistory.com/242)
+📑 [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level2.md)
 
 <br/>
 
-## 📘 Level 3, 📗 Level 4
+## 📗 Level 3
+
+> 🐹 사라지는 Slack 메시지, 우리가 주워줄게! `줍줍` 프로젝트 진행  
+> 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2022-pickpick)
+
+| Sprint | Period | Learning Log | Demo Day Video |
+|:-----:|:-----:|:---:|:---:|
+|1차 스프린트|`2022-06-28` ~ `2022-07-08`|[learning log](https://yeonyeon.tistory.com/248)|[demo day video](https://youtu.be/6rfkFdJCxDw)|
+|2차 스프린트|`2022-07-09` ~ `2022-07-22`|[learning log](https://yeonyeon.tistory.com/252)|[demo day video]()|
+|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log]()|[demo day video]()|
+|4차 스프린트|`2022-08-06` ~ `2022-08-18`|[learning log]()|[demo day video]()|
+
+
+To be continued...
+
+<br/>
+
+## 📘 Level 4
 
 | Project | Period | Repository | Pull Request & Review | Learning Log |
 |:-----:|:-----:|:---:|:---:|:---:|
@@ -73,4 +91,5 @@ To be continued...
 |우아한 WIL (Weekly, I Learned)|`2022-03-21` ~ `2022-05-30`|[repository](https://github.com/woowacourse-study/2022-woowahan-wil)|
 |구구조 Spring 스터디|`2022-05-06` ~ `2022-06-10`|[repository](https://github.com/woowacourse-study/2022-gugu-spring-study)|
 |Effective Java 인터뷰 스터디|`2022-05-09` ~ `2022-05-23`|[repository](https://github.com/woowacourse-study/2022-lv2-effective-java-interview)|
-|오리의 JPA 스터디|`2022-06-11`~진행중|-|
+|JPA 스터디|`2022-06-11` ~ `2022-06-27`|-|
+|알고리즘 스터디|`2022-06-28` ~ `진행중`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
