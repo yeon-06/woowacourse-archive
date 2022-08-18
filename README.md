@@ -50,7 +50,7 @@
 
 <br>
 
-📑 [레벨 인터뷰](https://yeonyeon.tistory.com/242)
+📑 [레벨 인터뷰](https://yeonyeon.tistory.com/242)  
 📑 [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level2.md)
 
 <br/>
@@ -63,12 +63,13 @@
 | Sprint | Period | Learning Log | Demo Day Video |
 |:-----:|:-----:|:---:|:---:|
 |1차 스프린트|`2022-06-28` ~ `2022-07-08`|[learning log](https://yeonyeon.tistory.com/248)|[demo day video](https://youtu.be/6rfkFdJCxDw)|
-|2차 스프린트|`2022-07-09` ~ `2022-07-22`|[learning log](https://yeonyeon.tistory.com/252)|[demo day video]()|
-|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log]()|[demo day video]()|
-|4차 스프린트|`2022-08-06` ~ `2022-08-18`|[learning log]()|[demo day video]()|
+|2차 스프린트|`2022-07-09` ~ `2022-07-22`|[learning log](https://yeonyeon.tistory.com/252)|[demo day video](https://youtu.be/H6rm16DesPo)|
+|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log](https://yeonyeon.tistory.com/256)|demo day video|
+|4차 스프린트|`2022-08-06` ~ `2022-08-18`|learning log|demo day video|
 
 
-To be continued...
+📑 [글쓰기 - 팀 프로젝트가 나에게 남긴 것](https://github.com/yeon-06/woowa-writing-4/blob/level3/writing/Level3.md)  
+📑 [테코톡 - 쿠키 vs 세션 vs 토큰 vs 캐시](https://youtu.be/gA1KsJ2ak10)
 
 <br/>
 
@@ -92,4 +93,5 @@ To be continued...
 |구구조 Spring 스터디|`2022-05-06` ~ `2022-06-10`|[repository](https://github.com/woowacourse-study/2022-gugu-spring-study)|
 |Effective Java 인터뷰 스터디|`2022-05-09` ~ `2022-05-23`|[repository](https://github.com/woowacourse-study/2022-lv2-effective-java-interview)|
 |JPA 스터디|`2022-06-11` ~ `2022-06-27`|-|
+|토미와 북수다|`2022-07-11` ~ `2022-07-25`|[learning log](https://yeonyeon.tistory.com/255)|
 |알고리즘 스터디|`2022-06-28` ~ `진행중`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
