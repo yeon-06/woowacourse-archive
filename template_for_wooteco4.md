@@ -57,10 +57,23 @@
 
 ## 💙 Level 4
 
-| Project | Period | Repository | Pull Request & Review | Learning Log |
-|:-----:|:-----:|:---:|:---:|:---:|
+> 프로젝트
 
-To be continued...
+| Sprint | Period | Demo Day Video |
+|:-----:|:-----:|:---:|
+|5차 스프린트|`2022-08-30` ~ `2022-09-23`|[demo day video]|
+|6차 스프린트|`2022-09-26` ~ `2022-10-21`|[demo day video]|
+
+<br/>
+
+> 개별 미션
+
+| Project | Period | Repository |
+|:-----:|:-----:|:---:|
+|톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository]|
+|@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository]|
+|JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository]|
+
 
 <br/>
 

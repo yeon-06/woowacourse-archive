@@ -64,8 +64,8 @@
 |:-----:|:-----:|:---:|:---:|
 |1차 스프린트|`2022-06-28` ~ `2022-07-08`|[learning log](https://yeonyeon.tistory.com/248)|[demo day video](https://youtu.be/6rfkFdJCxDw)|
 |2차 스프린트|`2022-07-09` ~ `2022-07-22`|[learning log](https://yeonyeon.tistory.com/252)|[demo day video](https://youtu.be/H6rm16DesPo)|
-|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log](https://yeonyeon.tistory.com/256)|demo day video|
-|4차 스프린트|`2022-08-06` ~ `2022-08-18`|learning log|demo day video|
+|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log](https://yeonyeon.tistory.com/256)|[demo day video](https://youtu.be/LQOhHfKPuC0)|
+|4차 스프린트|`2022-08-06` ~ `2022-08-18`|[learning log](https://yeonyeon.tistory.com/260)|[demo day video](https://youtu.be/VmXdJLkfBVE)|
 
 
 📑 [글쓰기 - 팀 프로젝트가 나에게 남긴 것](https://github.com/yeon-06/woowa-writing-4/blob/level3/writing/Level3.md)  
@@ -75,8 +75,23 @@
 
 ## 📘 Level 4
 
-| Project | Period | Repository | Pull Request & Review | Learning Log |
-|:-----:|:-----:|:---:|:---:|:---:|
+> 🐹 사라지는 Slack 메시지, 우리가 주워줄게! `줍줍` 프로젝트 진행  
+> 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2022-pickpick)
+
+| Sprint | Period | Learning Log | Demo Day Video |
+|:-----:|:-----:|:---:|:---:|
+|5차 스프린트|`2022-08-30` ~ `2022-09-23`|[learning log](https://yeonyeon.tistory.com/274)|[demo day video]|
+|6차 스프린트|`2022-09-26` ~ `2022-10-21`|[learning log]|[demo day video]|
+
+<br/>
+
+> 개별 미션
+
+| Project | Period | Repository | Learning Log |
+|:-----:|:-----:|:---:|:---:|
+|톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository](https://github.com/yeon-06/jwp-dashboard-http)|[learning log](https://yeonyeon.tistory.com/276)|
+|@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository](https://github.com/yeon-06/jwp-dashboard-mvc)|[learning log](https://yeonyeon.tistory.com/277)|
+|JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository](https://github.com/yeon-06/jwp-dashboard-jdbc)|[learning log]|
 
 To be continued...
 
@@ -93,5 +108,6 @@ To be continued...
 |구구조 Spring 스터디|`2022-05-06` ~ `2022-06-10`|[repository](https://github.com/woowacourse-study/2022-gugu-spring-study)|
 |Effective Java 인터뷰 스터디|`2022-05-09` ~ `2022-05-23`|[repository](https://github.com/woowacourse-study/2022-lv2-effective-java-interview)|
 |JPA 스터디|`2022-06-11` ~ `2022-06-27`|-|
+|알고리즘 스터디|`2022-06-28` ~ `2022-08-20`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
 |토미와 북수다|`2022-07-11` ~ `2022-07-25`|[learning log](https://yeonyeon.tistory.com/255)|
-|알고리즘 스터디|`2022-06-28` ~ `진행중`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
+|토미와 북수다 (2)|`2022-09-05` ~ `진행중`||
