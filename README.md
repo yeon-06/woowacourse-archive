@@ -1,75 +1,19 @@
 # 📚 연로그의 `우아한테크코스 4기` 기록용 레포지토리
 
-## 📕 Precourse
+## 📔 Study
 
-| Project | Period | Repository | Learning Log |
-|:---:|:---:|:---:|:---:|
-|숫자 야구 게임|`2021-11-24` ~ `2021-12-01`|[repository](https://github.com/yeon-06/java-baseball-precourse/tree/siyeon)|[learning log](https://yeonyeon.tistory.com/165)|
-|자동차 경주 게임|`2021-12-01` ~ `2021-12-08`|[repository](https://github.com/yeon-06/java-racingcar-precourse/tree/siyeon)|[learning log](https://yeonyeon.tistory.com/170)|
-|자판기|`2021-12-08` ~ `2021-12-15`|[repository](https://github.com/yeon-06/java-vendingmachine-precourse/tree/siyeon)|[learning log](https://yeonyeon.tistory.com/172)|
-|페어 매칭|`2021-12-18` ~ `2021-12-18`|[repository](https://github.com/yeon-06/java-pairmatching-precourse/tree/siyeon)|-|
+> 우아한테크코스 내부에서 진행한 스터디만 정리했습니다
 
-<br>
-
-📑 [우아한테크코스 지원 최종 후기](https://yeonyeon.tistory.com/176)
-
-<br/>
-
-## 📙 Level 1
-
-| Project | Period | Repository | Pull Request & Review | Learning Log |
-|:-----:|:-----:|:---:|:---:|:---:|
-|자동차 경주 <br> 1단계|`2022-02-09` ~ `2022-02-11`|[repository 1](https://github.com/yeon-06/java-racingcar/tree/step2)|[pull request 1](https://github.com/woowacourse/java-racingcar/pull/274)|[learning log 1](https://yeonyeon.tistory.com/189)|
-|자동차 경주 <br> 2단계|`2022-02-11` ~ `2022-02-21`|[repository 2](https://github.com/yeon-06/java-racingcar/tree/step3)|[pull request 2](https://github.com/woowacourse/java-racingcar/pull/419)|[learning log 2](https://yeonyeon.tistory.com/193)|
-|로또 <br> 1단계|`2022-02-22` ~ `2022-02-24`|[repository 1](https://github.com/yeon-06/java-lotto/tree/step1)|[pull request 1](https://github.com/woowacourse/java-lotto/pull/391)|[learning log 1](https://yeonyeon.tistory.com/197)|
-|로또 <br> 2단계|`2022-02-24` ~ `2022-03-07`|[repository 2](https://github.com/yeon-06/java-lotto/tree/step2)|[pull request 2](https://github.com/woowacourse/java-lotto/pull/454)|[learning log 2](https://yeonyeon.tistory.com/201)|
-|블랙잭 <br> 1단계|`2022-03-08` ~ `2022-03-11`|[repository 1](https://github.com/yeon-06/java-blackjack/tree/step1)|[pull request 1](https://github.com/woowacourse/java-blackjack/pull/220)|[learning log 1](https://yeonyeon.tistory.com/207)|
-|블랙잭 <br> 2단계|`2022-03-11` ~ `2022-03-21`|[repository 2](https://github.com/yeon-06/java-blackjack/tree/step2)|[pull request 2](https://github.com/woowacourse/java-blackjack/pull/321)|[learning log 2](https://yeonyeon.tistory.com/209)|
-|체스 <br> 1~3단계|`2022-03-22` ~ `2022-03-28`|[repository 1~3](https://github.com/yeon-06/java-chess/tree/step1)|[pull request 1~3](https://github.com/woowacourse/java-chess/pull/297)|[learning log 1~3](https://yeonyeon.tistory.com/212)|
-|체스 <br> 4~5단계|`2022-03-28` ~ `2022-04-07`|[repository 4~5](https://github.com/yeon-06/java-chess/tree/step2)|[pull request 4~5](https://github.com/woowacourse/java-chess/pull/366)|[learning log 4~5](https://yeonyeon.tistory.com/216)|
-
-<br>
-
-📑 [레벨 인터뷰](https://yeonyeon.tistory.com/219)  
-📑 [글쓰기 - 우테코 한달 생활기](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level1.md)
-
-<br/>
-
-## 📒 Level 2
-
-| Project | Period | Repository | Pull Request & Review | Learning Log |
-|:-----:|:-----:|:---:|:---:|:---:|
-|스프링 체스 <br> 1단계|`2022-04-19` ~ `2022-04-25`|[repository 1](https://github.com/yeon-06/jwp-chess/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-chess/pull/331)|[learning log](https://yeonyeon.tistory.com/222)|
-|스프링 체스 <br> 2단계|`2022-04-25` ~ `2022-05-02`|[repository 2](https://github.com/yeon-06/jwp-chess/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-chess/pull/422)|[learning log](https://yeonyeon.tistory.com/222)|
-|지하철 노선도 <br> 1~2단계|`2022-05-03` ~ `2022-05-05`|[repository 1~2](https://github.com/yeon-06/atdd-subway-map/tree/step1)|[pull request 1~2](https://github.com/woowacourse/atdd-subway-map/pull/190)|[learning log 1~2](https://yeonyeon.tistory.com/225)|
-|지하철 노선도 <br> 3단계|`2022-05-05` ~ `2022-05-16`|[repository 3](https://github.com/yeon-06/atdd-subway-map/tree/step2)|[pull request 3](https://github.com/woowacourse/atdd-subway-map/pull/274)|[learning log 3](https://yeonyeon.tistory.com/225)|
-|지하철 경로 <br> 1단계|`2022-05-17` ~ `2022-05-19`|[repository 1](https://github.com/yeon-06/atdd-subway-path/tree/step1)|[pull request 1](https://github.com/woowacourse/atdd-subway-path/pull/176)|[learning log](https://yeonyeon.tistory.com/231)|
-|지하철 경로 <br> 2단계|`2022-05-19` ~ `2022-05-25`|[repository 2](https://github.com/yeon-06/atdd-subway-path/tree/step2)|[pull request 2](https://github.com/woowacourse/atdd-subway-path/pull/258)|[learning log](https://yeonyeon.tistory.com/231)|
-|장바구니 <br> 1단계|`2022-05-26` ~ `2022-06-02`|[repository 1](https://github.com/yeon-06/jwp-shopping-cart/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-shopping-cart/pull/31)|[learning log](https://yeonyeon.tistory.com/237)|
-|장바구니 <br> 2단계|`2022-06-02` ~ `2022-06-09`|[repository 2](https://github.com/yeon-06/jwp-shopping-cart/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-shopping-cart/pull/95)|[learning log](https://yeonyeon.tistory.com/237)|
-
-<br>
-
-📑 [레벨 인터뷰](https://yeonyeon.tistory.com/242)  
-📑 [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level2.md)
-
-<br/>
-
-## 📗 Level 3
-
-> 🐹 사라지는 Slack 메시지, 우리가 주워줄게! `줍줍` 프로젝트 진행  
-> 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2022-pickpick)
-
-| Sprint | Period | Learning Log | Demo Day Video |
-|:-----:|:-----:|:---:|:---:|
-|1차 스프린트|`2022-06-28` ~ `2022-07-08`|[learning log](https://yeonyeon.tistory.com/248)|[demo day video](https://youtu.be/6rfkFdJCxDw)|
-|2차 스프린트|`2022-07-09` ~ `2022-07-22`|[learning log](https://yeonyeon.tistory.com/252)|[demo day video](https://youtu.be/H6rm16DesPo)|
-|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log](https://yeonyeon.tistory.com/256)|[demo day video](https://youtu.be/LQOhHfKPuC0)|
-|4차 스프린트|`2022-08-06` ~ `2022-08-18`|[learning log](https://yeonyeon.tistory.com/260)|[demo day video](https://youtu.be/VmXdJLkfBVE)|
-
-
-📑 [글쓰기 - 팀 프로젝트가 나에게 남긴 것](https://github.com/yeon-06/woowa-writing-4/blob/level3/writing/Level3.md)  
-📑 [테코톡 - 쿠키 vs 세션 vs 토큰 vs 캐시](https://youtu.be/gA1KsJ2ak10)
+| Project | Period | Repository |
+|:---:|:---:|:---:|
+|토미와 북수다 (2)|`2022-09-05` ~ `진행중`||
+|토미와 북수다|`2022-07-11` ~ `2022-07-25`|[learning log](https://yeonyeon.tistory.com/255)|
+|알고리즘 스터디|`2022-06-28` ~ `2022-08-20`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
+|JPA 스터디|`2022-06-11` ~ `2022-06-27`|-|
+|Effective Java 인터뷰 스터디|`2022-05-09` ~ `2022-05-23`|[repository](https://github.com/woowacourse-study/2022-lv2-effective-java-interview)|
+|구구조 Spring 스터디|`2022-05-06` ~ `2022-06-10`|[repository](https://github.com/woowacourse-study/2022-gugu-spring-study)|
+|우아한 WIL (Weekly, I Learned)|`2022-03-21` ~ `2022-05-30`|[repository](https://github.com/woowacourse-study/2022-woowahan-wil)|
+|Effective Java 스터디|`2022-02-22` ~ `2022-04-05`|[repository](https://github.com/woowacourse-study/2022-effective-java)|
 
 <br/>
 
@@ -80,8 +24,8 @@
 
 | Sprint | Period | Learning Log | Demo Day Video |
 |:-----:|:-----:|:---:|:---:|
+|6차 스프린트|`2022-09-26` ~ `2022-10-21`|[learning log](https://yeonyeon.tistory.com/282)|[demo day video]|
 |5차 스프린트|`2022-08-30` ~ `2022-09-23`|[learning log](https://yeonyeon.tistory.com/274)|[demo day video]|
-|6차 스프린트|`2022-09-26` ~ `2022-10-21`|[learning log]|[demo day video]|
 
 <br/>
 
@@ -89,25 +33,82 @@
 
 | Project | Period | Repository | Learning Log |
 |:-----:|:-----:|:---:|:---:|
-|톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository](https://github.com/yeon-06/jwp-dashboard-http)|[learning log](https://yeonyeon.tistory.com/276)|
-|@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository](https://github.com/yeon-06/jwp-dashboard-mvc)|[learning log](https://yeonyeon.tistory.com/277)|
 |JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository](https://github.com/yeon-06/jwp-dashboard-jdbc)|[learning log]|
+|@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository](https://github.com/yeon-06/jwp-dashboard-mvc)|[learning log](https://yeonyeon.tistory.com/277)|
+|톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository](https://github.com/yeon-06/jwp-dashboard-http)|[learning log](https://yeonyeon.tistory.com/276)|
 
 To be continued...
 
 <br/>
 
-## 📔 Study
+## 📗 Level 3
 
-> 우아한테크코스 내부에서 진행한 스터디만 정리했습니다
+> 🐹 사라지는 Slack 메시지, 우리가 주워줄게! `줍줍` 프로젝트 진행  
+> 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2022-pickpick)
 
-| Project | Period | Repository |
-|:---:|:---:|:---:|
-|Effective Java 스터디|`2022-02-22` ~ `2022-04-05`|[repository](https://github.com/woowacourse-study/2022-effective-java)|
-|우아한 WIL (Weekly, I Learned)|`2022-03-21` ~ `2022-05-30`|[repository](https://github.com/woowacourse-study/2022-woowahan-wil)|
-|구구조 Spring 스터디|`2022-05-06` ~ `2022-06-10`|[repository](https://github.com/woowacourse-study/2022-gugu-spring-study)|
-|Effective Java 인터뷰 스터디|`2022-05-09` ~ `2022-05-23`|[repository](https://github.com/woowacourse-study/2022-lv2-effective-java-interview)|
-|JPA 스터디|`2022-06-11` ~ `2022-06-27`|-|
-|알고리즘 스터디|`2022-06-28` ~ `2022-08-20`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
-|토미와 북수다|`2022-07-11` ~ `2022-07-25`|[learning log](https://yeonyeon.tistory.com/255)|
-|토미와 북수다 (2)|`2022-09-05` ~ `진행중`||
+| Sprint | Period | Learning Log | Demo Day Video |
+|:-----:|:-----:|:---:|:---:|
+|4차 스프린트|`2022-08-06` ~ `2022-08-18`|[learning log](https://yeonyeon.tistory.com/260)|[demo day video](https://youtu.be/VmXdJLkfBVE)|
+|3차 스프린트|`2022-07-23` ~ `2022-08-05`|[learning log](https://yeonyeon.tistory.com/256)|[demo day video](https://youtu.be/LQOhHfKPuC0)|
+|2차 스프린트|`2022-07-09` ~ `2022-07-22`|[learning log](https://yeonyeon.tistory.com/252)|[demo day video](https://youtu.be/H6rm16DesPo)|
+|1차 스프린트|`2022-06-28` ~ `2022-07-08`|[learning log](https://yeonyeon.tistory.com/248)|[demo day video](https://youtu.be/6rfkFdJCxDw)|
+
+<br/>
+
+📑 [글쓰기 - 팀 프로젝트가 나에게 남긴 것](https://github.com/yeon-06/woowa-writing-4/blob/level3/writing/Level3.md)  
+📑 [테코톡 - 쿠키 vs 세션 vs 토큰 vs 캐시](https://youtu.be/gA1KsJ2ak10)
+
+<br/>
+
+## 📒 Level 2
+
+| Project | Period | Repository | Pull Request & Review | Learning Log |
+|:-----:|:-----:|:---:|:---:|:---:|
+|장바구니 <br> 2단계|`2022-06-02` ~ `2022-06-09`|[repository 2](https://github.com/yeon-06/jwp-shopping-cart/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-shopping-cart/pull/95)|[learning log](https://yeonyeon.tistory.com/237)|
+|장바구니 <br> 1단계|`2022-05-26` ~ `2022-06-02`|[repository 1](https://github.com/yeon-06/jwp-shopping-cart/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-shopping-cart/pull/31)|[learning log](https://yeonyeon.tistory.com/237)|
+|지하철 경로 <br> 2단계|`2022-05-19` ~ `2022-05-25`|[repository 2](https://github.com/yeon-06/atdd-subway-path/tree/step2)|[pull request 2](https://github.com/woowacourse/atdd-subway-path/pull/258)|[learning log](https://yeonyeon.tistory.com/231)|
+|지하철 경로 <br> 1단계|`2022-05-17` ~ `2022-05-19`|[repository 1](https://github.com/yeon-06/atdd-subway-path/tree/step1)|[pull request 1](https://github.com/woowacourse/atdd-subway-path/pull/176)|[learning log](https://yeonyeon.tistory.com/231)|
+|지하철 노선도 <br> 3단계|`2022-05-05` ~ `2022-05-16`|[repository 3](https://github.com/yeon-06/atdd-subway-map/tree/step2)|[pull request 3](https://github.com/woowacourse/atdd-subway-map/pull/274)|[learning log 3](https://yeonyeon.tistory.com/225)|
+|지하철 노선도 <br> 1~2단계|`2022-05-03` ~ `2022-05-05`|[repository 1~2](https://github.com/yeon-06/atdd-subway-map/tree/step1)|[pull request 1~2](https://github.com/woowacourse/atdd-subway-map/pull/190)|[learning log 1~2](https://yeonyeon.tistory.com/225)|
+|스프링 체스 <br> 2단계|`2022-04-25` ~ `2022-05-02`|[repository 2](https://github.com/yeon-06/jwp-chess/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-chess/pull/422)|[learning log](https://yeonyeon.tistory.com/222)|
+|스프링 체스 <br> 1단계|`2022-04-19` ~ `2022-04-25`|[repository 1](https://github.com/yeon-06/jwp-chess/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-chess/pull/331)|[learning log](https://yeonyeon.tistory.com/222)|
+
+<br>
+
+📑 [레벨 인터뷰](https://yeonyeon.tistory.com/242)  
+📑 [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level2.md)
+
+<br/>
+
+## 📙 Level 1
+
+| Project | Period | Repository | Pull Request & Review | Learning Log |
+|:-----:|:-----:|:---:|:---:|:---:|
+|체스 <br> 4~5단계|`2022-03-28` ~ `2022-04-07`|[repository 4~5](https://github.com/yeon-06/java-chess/tree/step2)|[pull request 4~5](https://github.com/woowacourse/java-chess/pull/366)|[learning log 4~5](https://yeonyeon.tistory.com/216)|
+|체스 <br> 1~3단계|`2022-03-22` ~ `2022-03-28`|[repository 1~3](https://github.com/yeon-06/java-chess/tree/step1)|[pull request 1~3](https://github.com/woowacourse/java-chess/pull/297)|[learning log 1~3](https://yeonyeon.tistory.com/212)|
+|블랙잭 <br> 2단계|`2022-03-11` ~ `2022-03-21`|[repository 2](https://github.com/yeon-06/java-blackjack/tree/step2)|[pull request 2](https://github.com/woowacourse/java-blackjack/pull/321)|[learning log 2](https://yeonyeon.tistory.com/209)|
+|블랙잭 <br> 1단계|`2022-03-08` ~ `2022-03-11`|[repository 1](https://github.com/yeon-06/java-blackjack/tree/step1)|[pull request 1](https://github.com/woowacourse/java-blackjack/pull/220)|[learning log 1](https://yeonyeon.tistory.com/207)|
+|로또 <br> 2단계|`2022-02-24` ~ `2022-03-07`|[repository 2](https://github.com/yeon-06/java-lotto/tree/step2)|[pull request 2](https://github.com/woowacourse/java-lotto/pull/454)|[learning log 2](https://yeonyeon.tistory.com/201)|
+|로또 <br> 1단계|`2022-02-22` ~ `2022-02-24`|[repository 1](https://github.com/yeon-06/java-lotto/tree/step1)|[pull request 1](https://github.com/woowacourse/java-lotto/pull/391)|[learning log 1](https://yeonyeon.tistory.com/197)|
+|자동차 경주 <br> 2단계|`2022-02-11` ~ `2022-02-21`|[repository 2](https://github.com/yeon-06/java-racingcar/tree/step3)|[pull request 2](https://github.com/woowacourse/java-racingcar/pull/419)|[learning log 2](https://yeonyeon.tistory.com/193)|
+|자동차 경주 <br> 1단계|`2022-02-09` ~ `2022-02-11`|[repository 1](https://github.com/yeon-06/java-racingcar/tree/step2)|[pull request 1](https://github.com/woowacourse/java-racingcar/pull/274)|[learning log 1](https://yeonyeon.tistory.com/189)|
+
+<br>
+
+📑 [레벨 인터뷰](https://yeonyeon.tistory.com/219)  
+📑 [글쓰기 - 우테코 한달 생활기](https://github.com/yeon-06/woowa-writing-4/blob/level2/writing/Level1.md)
+
+<br/>
+
+## 📕 Precourse
+
+| Project | Period | Repository | Learning Log |
+|:---:|:---:|:---:|:---:|
+|페어 매칭|`2021-12-18` ~ `2021-12-18`|[repository](https://github.com/yeon-06/java-pairmatching-precourse/tree/siyeon)|-|
+|자판기|`2021-12-08` ~ `2021-12-15`|[repository](https://github.com/yeon-06/java-vendingmachine-precourse/tree/siyeon)|[learning log](https://yeonyeon.tistory.com/172)|
+|자동차 경주 게임|`2021-12-01` ~ `2021-12-08`|[repository](https://github.com/yeon-06/java-racingcar-precourse/tree/siyeon)|[learning log](https://yeonyeon.tistory.com/170)|
+|숫자 야구 게임|`2021-11-24` ~ `2021-12-01`|[repository](https://github.com/yeon-06/java-baseball-precourse/tree/siyeon)|[learning log](https://yeonyeon.tistory.com/165)|
+
+<br>
+
+📑 [우아한테크코스 지원 최종 후기](https://yeonyeon.tistory.com/176)
