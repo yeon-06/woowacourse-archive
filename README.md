@@ -5,10 +5,10 @@
 > 🐹 사라지는 Slack 메시지, 우리가 주워줄게! `줍줍` 프로젝트 진행  
 > 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2022-pickpick)
 
-| Sprint | Period | Learning Log | Demo Day Video |
-|:-----:|:-----:|:---:|:---:|
-|6차 스프린트|`2022-09-26` ~ `2022-10-21`|[learning log](https://yeonyeon.tistory.com/282)|-|
-|5차 스프린트|`2022-08-30` ~ `2022-09-23`|[learning log](https://yeonyeon.tistory.com/274)|[demo day video]|
+| Sprint | Period | Learning Log |
+|:-----:|:-----:|:---:|
+|6차 스프린트|`2022-09-26` ~ `2022-10-21`|[learning log](https://yeonyeon.tistory.com/282)|
+|5차 스프린트|`2022-08-30` ~ `2022-09-23`|[learning log](https://yeonyeon.tistory.com/274)|
 
 <br/>
 
@@ -16,8 +16,7 @@
 
 | Project | Period | Repository | Learning Log |
 |:-----:|:-----:|:---:|:---:|
-|레거시 리팩터링|`2022-10-25` ~ `2022-11-04`|[repository](https://github.com/yeon-06/jwp-refactoring)|[learning log]|
-|JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository](https://github.com/yeon-06/jwp-dashboard-jdbc)|[learning log]|
+|JDBC 라이브러리 구현|`2022-10-04` ~ `2022-10-14`|[repository](https://github.com/yeon-06/jwp-dashboard-jdbc)|[learning log](https://yeonyeon.tistory.com/287)|
 |@MVC 프레임워크 구현|`2022-09-16` ~ `2022-09-29`|[repository](https://github.com/yeon-06/jwp-dashboard-mvc)|[learning log](https://yeonyeon.tistory.com/277)|
 |톰캣 구현|`2022-08-30` ~ `2022-09-13`|[repository](https://github.com/yeon-06/jwp-dashboard-http)|[learning log](https://yeonyeon.tistory.com/276)|
 
@@ -88,9 +87,9 @@
 
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|리얼찐막 면접 스터디|`2022-11-01` ~ `진행중`|-|
-|구구조 이력서 스터디|`2022-10-31` ~ `진행중`|-|
-|토미와 북수다 (2)|`2022-09-05` ~ `진행중`|-|
+|리얼찐막 면접 스터디|`2022-11-01` ~ `진행중`|[repository](https://github.com/woowacourse-study/2022-real-jjin-mak)|
+|구구조 이력서 피드백 모임|`2022-10-31`|-|
+|토미와 북수다 (2)|`2022-09-05` ~ `2022-11-14`|-|
 |토미와 북수다|`2022-07-11` ~ `2022-07-25`|[learning log](https://yeonyeon.tistory.com/255)|
 |알고리즘 스터디|`2022-06-28` ~ `2022-08-20`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
 |JPA 스터디|`2022-06-11` ~ `2022-06-27`|-|
