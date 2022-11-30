@@ -87,7 +87,7 @@
 
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|리얼찐막 면접 스터디|`2022-11-01` ~ `진행중`|[repository](https://github.com/woowacourse-study/2022-real-jjin-mak)|
+|리얼찐막 면접 스터디|`2022-11-01` ~ `2022-11-24`|[repository](https://github.com/woowacourse-study/2022-real-jjin-mak)|
 |구구조 이력서 피드백 모임|`2022-10-31`|-|
 |토미와 북수다 (2)|`2022-09-05` ~ `2022-11-14`|-|
 |토미와 북수다|`2022-07-11` ~ `2022-07-25`|[learning log](https://yeonyeon.tistory.com/255)|
